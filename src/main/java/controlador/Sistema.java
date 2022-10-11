@@ -1,8 +1,9 @@
 
 package controlador;
 import model.*;
-import vista.Vista;
+import vista.VistaMenu;
 
 public class Sistema {
-    
+  
+   
 }
